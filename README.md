@@ -5,7 +5,7 @@ For example, the normal price of a iPhone 14 is $799, and the merchants would li
 At that point, it would lead to a problem that a large amount of purchasing request(> 500/RPS). In order to solve such problem,
 I develope a web page to solve this problem.
 
-Front End: Html5 + CSS
+Front End: HTML5 + CSS
 
 Back End: Java
 
