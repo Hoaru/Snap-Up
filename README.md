@@ -6,7 +6,9 @@ At that point, it would lead to a problem that a large amount of purchasing requ
 I develope a web page to solve this problem.
 
 Front End: Html5 + CSS
+
 Back End: Java
+
 Tools: SpringBoot, MyBatis, Redis, MySQL
 
 I have finished 33% of this project.
