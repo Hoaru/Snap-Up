@@ -11,4 +11,4 @@ Back End: Java
 
 Tools: SpringBoot, MyBatis, Redis, MySQL
 
-I have finished 33% of this project.
+I have finished 50% of this project.
